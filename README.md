@@ -10,6 +10,6 @@ git commit -m "Commit message"
 git push
 ```
 
-![Michigan Title](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.michigandaily.com%2Fsports%2Ffootball%2Fthe-daily-football-beat-predicts-michigan-vs-michigan-state%2F&psig=AOvVaw1sytOvdRPY6B_a2iazQk9W&ust=1704911987438000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMi-ypz60IMDFQAAAAAdAAAAABAD)
+![Michigan Title](https://image.goat.com/transform/v1/attachments/product_template_pictures/images/082/597/718/original/616047_00.png.png)
 
 I don't actually care for Michigan football :wink:
